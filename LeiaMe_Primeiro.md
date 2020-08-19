@@ -1,2 +1,2 @@
 # PredictingRentPrice
-Exploratory data analysis, data vizualization, machine learning models and much more
+Exploratory data analysis, data vizualization and machine learning models
